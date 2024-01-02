@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_map"
+        android:icon="@drawable/ic_map"
+        android:title="@string/menu_map_title"/>
+    <item android:id="@+id/menu_dashboard"
+        android:icon="@drawable/ic_dashboard"
+        android:title="@string/menu_dashboard_title"/>
+    <item android:id="@+id/menu_chart"
+        android:icon="@drawable/ic_chart"
+        android:title="@string/menu_chart_title"/>
+    <item android:id="@+id/menu_account"
+        android:icon="@drawable/ic_singleuser"
+        android:title="@string/menu_account_title"/>
+</menu>

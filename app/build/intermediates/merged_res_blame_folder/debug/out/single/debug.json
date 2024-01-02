@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-mdpi_ic_map.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-mdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\layout_fragment_chart.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\layout\\fragment_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xxhdpi_ic_down.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xxhdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable_custom_background_fragment_dashboard_top.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable\\custom_background_fragment_dashboard_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xhdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xxhdpi_ic_default_weather.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xxhdpi\\ic_default_weather.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-anydpi_ic_light.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-anydpi\\ic_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\layout_fragment_map.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xxxhdpi_sunrise.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xxxhdpi\\sunrise.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-mdpi_ic_down.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-mdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable_custom_dial_background.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable\\custom_dial_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\layout_light_marker.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\layout\\light_marker.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\anim_anim_bottom.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\anim\\anim_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xxhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable_border_view_value.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable\\border_view_value.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-anydpi_ic_user.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-anydpi\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-mdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-mdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xxxhdpi_wind.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xxxhdpi\\wind.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xxhdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xxhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-mdpi_ic_light.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-mdpi\\ic_light.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable_custom_img_background.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable\\custom_img_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable_style_spinner.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable\\style_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xhdpi_ic_map.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xhdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-hdpi_ic_default_weather.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-hdpi\\ic_default_weather.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xxxhdpi_uitlogo.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xxxhdpi\\uitlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-anydpi_ic_lock.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-anydpi\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-mdpi_ic_chart.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-mdpi\\ic_chart.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xhdpi_ic_singleuser.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xhdpi\\ic_singleuser.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\layout_activity_sign_up_success.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\layout\\activity_sign_up_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xxhdpi_ic_chart.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xxhdpi\\ic_chart.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-mdpi_ic_dashboard.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-mdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-hdpi_ic_mail.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-hdpi\\ic_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xxxhdpi_cloudy_sunny.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xxxhdpi\\cloudy_sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\anim_anim_top.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\anim\\anim_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-hdpi_ic_down.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-hdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-hdpi_ic_singleuser.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-hdpi\\ic_singleuser.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-anydpi_ic_singleuser.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-anydpi\\ic_singleuser.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-anydpi_ic_default_weather.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-anydpi\\ic_default_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xhdpi_ic_dashboard.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xhdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-mdpi_ic_singleuser.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-mdpi\\ic_singleuser.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-hdpi_ic_map.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-hdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\layout_select_item.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\layout\\select_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-anydpi_ic_map.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-anydpi\\ic_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\anim_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-mdpi_ic_default_weather.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-mdpi\\ic_default_weather.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable_border_view.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable\\border_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable_custom_edit_text.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable\\custom_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-anydpi_ic_chart.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-anydpi\\ic_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\color_custom_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\color\\custom_bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-hdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-hdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable_custom_background_fragment_dashboard_mid.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable\\custom_background_fragment_dashboard_mid.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-hdpi_ic_chart.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-hdpi\\ic_chart.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\anim_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\menu_menu_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\menu\\menu_bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xxhdpi_ic_map.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xxhdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xxhdpi_ic_dashboard.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xxhdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xhdpi_ic_default_weather.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xhdpi\\ic_default_weather.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable_botviewborder.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable\\botviewborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xxhdpi_ic_light.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xxhdpi\\ic_light.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\layout_default_weather_marker.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\layout\\default_weather_marker.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-hdpi_ic_dashboard.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-hdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-hdpi_ic_user.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-hdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xhdpi_ic_chart.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xhdpi\\ic_chart.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\anim_anim_rotate.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\anim\\anim_rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-mdpi_ic_user.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-mdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xxxhdpi_humidity.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xxxhdpi\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable_custom_view_fragment_user.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable\\custom_view_fragment_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xxxhdpi_rain.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xxxhdpi\\rain.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable_winddirection.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable\\winddirection.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xxxhdpi_image_1.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xxxhdpi\\image_1.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-mdpi_ic_mail.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-mdpi\\ic_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xhdpi_ic_light.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xhdpi\\ic_light.png"
+    },
+    {
+        "merged": "com.example.screen_2.app-merged_res-35:/layout_fragment_chart.xml.flat",
+        "source": "com.example.screen_2.app-main-37:/layout/fragment_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-anydpi_ic_down.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-anydpi\\ic_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable_custom_background_fragment.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable\\custom_background_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xxxhdpi_sunset.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xxxhdpi\\sunset.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\layout_fragment_account.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-hdpi_ic_light.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-hdpi\\ic_light.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xhdpi_ic_mail.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xhdpi\\ic_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xxhdpi_ic_singleuser.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xxhdpi\\ic_singleuser.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xhdpi_ic_down.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xhdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\layout_dropdown_item.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\layout\\dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-anydpi_ic_mail.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-anydpi\\ic_mail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-anydpi_ic_dashboard.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-anydpi\\ic_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-merged_res-35:\\drawable-xxhdpi_ic_mail.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.example.screen_2.app-main-37:\\drawable-xxhdpi\\ic_mail.png"
+    }
+]

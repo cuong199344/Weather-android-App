@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="btn_back_text_color">#190482</color>
+    <color name="btn_background">#190482</color>
+    <color name="menu_background">#190482</color>
+    <color name="orange">#FF6600</color>
+    <color name="spinner_language_background">#8E8FFA</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="drawable_padding_edit_text">2dp</dimen>
+    <dimen name="elevation_btn">8dp</dimen>
+    <dimen name="elevation_dashboard_view">10dp</dimen>
+    <dimen name="elevation_edit_text">5dp</dimen>
+    <dimen name="margin_left_object_top">10dp</dimen>
+    <dimen name="margin_left_right_edit_text">23dp</dimen>
+    <dimen name="margin_right_object_top">10dp</dimen>
+    <dimen name="margin_top_edit_text">17dp</dimen>
+    <dimen name="margin_top_object_top">10dp</dimen>
+    <dimen name="padding_edit_text">10dp</dimen>
+    <dimen name="padding_right_left_editText">10dp</dimen>
+    <dimen name="padding_start_edit_text">10dp</dimen>
+    <dimen name="padding_top_bottom_editText">5dp</dimen>
+    <dimen name="radius_btn">10dp</dimen>
+    <dimen name="textview_tagname_top">20dp</dimen>
+    <string name="app_name">screen_2</string>
+    <string name="back">BACK</string>
+    <string name="brightness">Brightness(%)</string>
+    <string name="change_password">Change password</string>
+    <string name="className">Class: NT118.O14.MMCL</string>
+    <string name="colour_rgb">Colour RGB</string>
+    <string name="colour_temperature_k">Colour temperature(K)</string>
+    <string name="default_weather">DEFAULT WEATHER</string>
+    <string name="email">Email</string>
+    <string name="email_info">Email:</string>
+    <string name="final_project">Final Project</string>
+    <string name="first_name">First Name:</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="group">Group 14</string>
+    <string name="have_an_account_sign_in">Have an account? Sign in!</string>
+    <string name="hello">Hello, </string>
+    <string name="hintPassword">***</string>
+    <string name="hintUser">User</string>
+    <string name="humidity">Humidity(%)</string>
+    <string name="last_name">Last Name:</string>
+    <string name="light">LIGHT</string>
+    <string name="mail">Mail</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="menu_account_title">Account</string>
+    <string name="menu_chart_title">Chart</string>
+    <string name="menu_dashboard_title">Dash board</string>
+    <string name="menu_map_title">Map</string>
+    <string name="on_off">On off</string>
+    <string name="place">Place</string>
+    <string name="press_back_to_go_back_to_the_main_page">Press back to go back to the main page</string>
+    <string name="rainfall">Rainfall</string>
+    <string name="rainfall_mm">Rainfall(mm)</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_up_success">SIGN UP SUCCESS!!!</string>
+    <string name="sign_up_with_google">SIGN UP WITH GOOGLE</string>
+    <string name="tags">Tags</string>
+    <string name="temperature_c">Temperature(°C)</string>
+    <string name="textview">TextView</string>
+    <string name="title">WELCOME TO UITweather</string>
+    <string name="user_information">User information</string>
+    <string name="user_name">User Name:</string>
+    <string name="wind_direction">Wind direction</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="wind_speed_km_h">Wind speed(km/h)</string>
+    <style name="Base.Theme.Screen_2" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/slide_in_bottom</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_bottom</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.MaterialButton.RoundedRect" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">0dp</item>
+        <item name="cornerSizeTopLeft">0dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+        <item name="cornerSizeBottomLeft">0dp</item>
+    </style>
+    <style name="Theme.Screen_2" parent="Base.Theme.Screen_2"/>
+</resources>
